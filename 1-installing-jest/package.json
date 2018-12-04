@@ -1,0 +1,10 @@
+{
+  "scripts": {
+    "test": "yarn jest"
+  },
+  "devDependencies": {
+    "babel-core": "^6.26.3",
+    "babel-jest": "^23.6.0",
+    "babel-preset-env": "^1.7.0"
+  }
+}
